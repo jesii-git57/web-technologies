@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/2nd Assignment.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <title>2nd Assignment</title>
+</head>
+<body>
+    <div class="first_container">
+        <div class="left">
+            <h1>Selling online <br> is vital to <br>business growth.</h1>
+            <p class="text">2025 Grow Your e-Commerce Conference</p>
+            <p class="date">September 16-March, 2025 <br>Paragon One Plaza and Sky Garden</p>
+            <div class="first_button_flex">
+                <button class="first_button">
+                    BOOK NOW FOR EARLY BIRD PRICES
+                </button>
+            </div>
+        </div>
+        <div class="right_first_img">
+            <img class="first_img" src="./image/1.png" alt="">
+        </div>
+    </div>
+    <div class="sec_main">
+        <div class="sec_main_container">
+            <h1>The most awaited
+                <br>e-commerce event <br>is back!
+            </h1>
+            <p>
+                Every year, thousands of marketing, sales,<br>
+                and web development professionals<br>
+                gather in and around Venston Bay to <br>
+                discuss the future of e-commerce.
+            </p>
+            <div class="sec_img_container">
+                <img src="./image/2.png" alt="">
+            </div>
+        </div>
+    </div>
+<div class="third_main">
+
+        <h1>Our 2025 Keynote Speakers</h1>
+
+        <div class="flex-container">
+
+            <div class="t_child">
+
+                <img src="./image/3.jpg" alt="" class="third_first">
+                <div class="t-text">
+                    <h3>
+                        Jeshika Karki
+                    </h3>
+                    <p>
+                        Head of Marketing
+                        <br>
+                        The Hobbibox
+                    </p>
+                    <h4>
+                        September 16
+                    </h4>
+                </div>
+            </div>
+            <div class="t_child">
+                <img src="./image/4.jpg" alt="">
+                <div class="t-text">
+                    <h3>
+                        Jeshika karki
+                    </h3>
+                    <p>
+                        Director of Design
+                        <br>
+                        Studio Rallia
+                    </p>
+                    <h4>
+                        September 17
+                    </h4>
+                 </div>
+                </div>
+                <div class="t_child">
+                    <img src="./image/5.jpg" alt="">
+                    <div class="t-text">
+                        <h3>Dipesh Bhattarai</h3>
+                        <p class="third_img_p">
+                            Founder and CEO
+                             <br>
+                             The Treasurebox Online
+                            </p>
+                            <h4>
+                                 September 18
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="fourth_main">
+                    <div class="fourth_flex">
+                        <div class="fourth_main_img">
+                            <img src="./image/6.jpg" alt="" class="fourth_img">
+                        </div>
+                        <div class="fourth_main_container">
+                            <h1>Our Sponsors</h1>
+                            <p>
+                                Sandrine Logistics <br>
+                                Murrayfield School of Marketing <br>
+                                 Schuester Digital Media Group <br>
+                                 Blue Samurai Productions <br>
+                                 Berao Solutions, Inc. <br>
+                                 Golden Ore Bank <br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="fifth_main">
+                        <div>
+                             <img src="./image/7.jpg" alt="" class="fifth_image">
+                             </div>
+                             <div>
+                                <h1 class="fifth_main_h">Reach Out</h1>
+                                <p class="fifth_main_p">Conference Secretariat <br>163 Woodlands Place <br>Algies Bay, Rodney 0920</p>
+                            </div>
+                            <div>
+                                <p class="fifth_main_sec_p">+977-9808058007 <br> hello.I.am.Dips@gmail.com <br> @reallygreatsite</p>
+                            </div>
+                             <div class="fifth_button">
+                                <button class="fifth_but_para">
+                                    RESERVE YOUR SEAT
+                                </button>
+                            </div>
+                        </div>
+                    </body>
+                    </html>
